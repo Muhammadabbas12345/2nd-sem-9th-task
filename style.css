@@ -1,0 +1,203 @@
+body{
+    background-color: rgb(47, 47, 88);
+}
+
+.maindiv{
+    display: flex;
+    padding-left: 6%;
+    padding-right: 6%;
+    color: white;
+}
+
+.maindiv h1{
+    padding-top: 2px;
+    margin-left: 3%;
+}
+
+
+
+.div1{
+    display: flex;
+    margin-left: 4%;
+
+
+}
+
+.div1 button{
+padding: 0% 6%;
+   height: 40px;
+    margin-left: 7%;
+    margin-top: 3%;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border: none;
+
+
+}
+
+.li{
+    list-style: none;
+    margin-left: 10%;
+    padding-top: 5%;
+    font-size: 20px;
+}
+
+.li1{
+    list-style: none;
+    margin-left: 330px;
+    padding-top: 5%;
+    font-size: 20px;
+
+}
+
+
+#sec1{
+    color: white;
+    text-align: center;
+    padding: 8%;
+
+}
+
+@media (max-width:600px) {
+    .maindiv{
+        display: none;
+        
+    }
+}
+
+#sec1 h4{
+    color: rgb(0, 132, 255);
+}
+
+#sec1 h1{
+    font-size: 60px;
+    /* width: 500px; */
+    text-align: center;
+}
+
+#sec1 p{
+    font-size: 22px;
+    /* width: 500px; */
+    text-align: center;
+}
+
+.btn1{
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border-radius: 5px;
+
+}
+
+.btn2{
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 132, 255);
+    color: rgb(0, 132, 255);
+background-color: transparent;
+}
+
+
+#sec2{
+    display: flex;
+    padding-left: 17%;
+    padding-bottom: 4%;
+  
+}
+
+.div2{
+    background-color: white;
+    width: 20%;
+    height: 25%;
+    /* padding: 2%; */
+    margin: 1%;
+    padding-top: 4%;
+    padding-left: 3%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+
+   
+}
+.div2 h3{
+    font-size: 25px;
+
+
+}
+
+.div2 i{
+    color: red;
+    background-color: rgb(180, 113, 113) ;
+    padding: 6%;
+    border-radius: 4px;
+    
+
+
+}
+
+.div3 i{
+    color: rgb(0, 132, 255);
+    background-color: rgb(223, 227, 223) ;
+    padding: 6%;
+    border-radius: 4px;
+    
+
+
+}
+
+.div4 i{
+    color: green;
+    background-color: rgb(83, 210, 81) ;
+    padding: 6%;
+    border-radius: 4px;
+    
+
+
+}
+
+.div4{
+    background-color: white;
+    width: 20%;
+    height: 25%;
+    /* padding: 2%; */
+    margin: 1%;
+    padding-top: 4%;
+    padding-left: 3%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+
+}
+
+.div4 h3{
+    font-size: 25px;
+
+}
+
+
+.div3{
+    color: white;
+    background-color: rgb(0, 132, 255);
+    /* padding: 2%; */
+    width: 20%;
+    height: 25%;
+    padding-top: 4%;
+    padding-left: 3%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+
+    margin: 1%;
+
+
+    
+}
+
+.div3 h3{
+    font-size: 25px;
+
+
+}
+
+
+
+
